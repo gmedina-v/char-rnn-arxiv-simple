@@ -1,2 +1,2 @@
 # char-rnn-arxiv-simple
-This is an illustrative example of a char-RNN for text generation trained on abstracts of scientific articles published in the arXiv.
+This is an illustrative example of a char-RNN for text generation trained on abstracts of scientific articles published in the arXiv. The model is implemented in Python using a Google Colab notebook. Required packages include numpy, Tensorflow. The notebook can be opened in Google Colab and the code can be modified so anyone can experiment with it. I have included explanations for each step and technical bits based on my current knowledge. All corrections, comments and suggestions are greatly appreciated!
